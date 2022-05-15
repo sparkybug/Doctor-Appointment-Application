@@ -1,6 +1,6 @@
 # Doctor-Appointment-Application
 Guide On How to Use the Doctor Appointment Application
-	Use the git pull command to pull the project from GitHub to your desktop (or laptop) using your command-line (or command-prompt). (GitHub repo would be shared below)
+	Use the git pull command to pull the project from GitHub to your desktop (or laptop) using your command-line (or command-prompt)
 	Download and install XAMPP
 	Run the XAMPP control panel and start the Apache server & MySQL
 	Go to C:\xampp\htdocs and copy the files pulled from GitHub here
